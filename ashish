@@ -1,0 +1,24 @@
+[
+    {
+        "id": " 5",
+        "type" : "date",
+        "label":"lawda lahsun",
+        "mandatory":" true",
+        "value":"12-15-2015 "
+    },
+     {
+        "id": "562 ",
+        "type" : "Date",
+        "label" :"From Date",
+        "mandatory":" true",
+        "value":"04-03-2016 "
+        
+    },
+     {
+        "id":" 543" ,
+        "type" : " textbox",
+        "label":"status",
+        "mandatory" :" false",
+        "value" : "this is india "
+    }
+]
