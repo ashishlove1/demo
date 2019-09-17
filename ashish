@@ -2,7 +2,7 @@
     {
         "id": " 5",
         "type" : "date",
-        "label":"lawda lahsun",
+        "label":"start date",
         "mandatory":" true",
         "value":"12-15-2015 "
     },
