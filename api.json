@@ -3,18 +3,18 @@
         "id": " 1",
         "type" : "date",
         "label":"start date",
-        "mandatory":" true",
+        "mandatory":" false",
     },
      {
         "id": "2 ",
-        "type" : "Date",
+        "type" : "textbox",
         "label" :"From Date",
-        "mandatory":" true",
+        "mandatory":" false",
         
     },
      {
         "id":" 3" ,
-        "type" : " textbox",
+        "type" : "date ",
         "label":"status",
         "mandatory" :" false",
         "value" : "enter here"
@@ -23,7 +23,7 @@
         "id":" 4" ,
         "type" : " select",
         "label": " select",
-        "mandatory" :" false",
+        "mandatory" :" true",
         "value" : " "
     }
 ]
