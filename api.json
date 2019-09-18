@@ -11,7 +11,7 @@
         "type" : "Date",
         "label" :"From Date",
         "mandatory":" true",
-        "value":"2016-03-04 "
+        "value":"2016-04-21,09:12:AM"
         
     },
      {
@@ -19,6 +19,6 @@
         "type" : " textbox",
         "label":"status",
         "mandatory" :" false",
-        "value" : "this is india "
+        "value" : ""
     }
 ]
